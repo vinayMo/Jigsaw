@@ -182,9 +182,9 @@ var Piece = Cevent.Shape.extend({
         
         ctx.bezierCurveTo(cx+w*.5, cy, cx+w*.4, cy+h*-0.15, cx+w*.4, cy+h*-0.15);
         
-        ctx.bezierCurveTo(cx+w*.3, cy+h*-0.3, cx+w*.5, cy+h*-0.3, cx+w*.5, cy+h*-0.3);
+//         ctx.bezierCurveTo(cx+w*.3, cy+h*-0.3, cx+w*.5, cy+h*-0.3, cx+w*.5, cy+h*-0.3);
         
-        ctx.bezierCurveTo(cx+w*.7, cy+h*-0.3, cx+w*.6, cy+h*-0.15, cx+w*.6, cy+h*-0.15);
+//         ctx.bezierCurveTo(cx+w*.7, cy+h*-0.3, cx+w*.6, cy+h*-0.15, cx+w*.6, cy+h*-0.15);
         
         ctx.bezierCurveTo(cx+w*.5, cy, cx+w*.65, cy, cx+w*.65, cy);
         
